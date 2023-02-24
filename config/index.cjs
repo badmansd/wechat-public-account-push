@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx4f16f204c03e0c36',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '669527f78472ef0ec3a0252932a011f2',
 
   PROVINCE: '山东',
   CITY: '济南',
@@ -57,7 +57,7 @@ USE_PASSAGE: 'push-deer',
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'o_hEJ6O3xOGC4mUl0QCdXLrHFeUA',
     }
   ],
 
